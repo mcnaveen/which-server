@@ -1,7 +1,7 @@
 # Which Web Server is running?
 :unicorn: Simple utility to find which webserver is running.
 
-![Build](https://github.com/mcnaveen/which-webserver/workflows/Build/badge.svg)
+![Build](https://github.com/mcnaveen/which-server/workflows/Build/badge.svg)
 
 ### :package: Requirements
 - Node.js 12X LTS or 14X LTS 📦
