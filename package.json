@@ -1,6 +1,6 @@
 {
   "name": "which-server",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Simple utility to find which webserver is running",
   "main": "index.js",
   "scripts": {
