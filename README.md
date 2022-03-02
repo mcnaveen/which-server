@@ -56,14 +56,3 @@ This website uses: gws
 #### :green_heart: Message
 
 I hope you find this useful. If you have any questions, please create an issue.
-
-
-import getServerName from "which-server";
-
-async function getdata(){
-    let url = "https://google.com";
-    const data = await getServerName(url);
-    console.log("This website uses: " + data);
-}
-
-getdata();
