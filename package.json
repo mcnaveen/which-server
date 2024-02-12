@@ -28,6 +28,6 @@
     "which-server"
   ],
   "dependencies": {
-    "axios": "^0.26.0"
+    "axios": "^1.0.0"
   }
 }
